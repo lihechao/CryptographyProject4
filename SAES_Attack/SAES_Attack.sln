@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SAES_Attack", "SAES_Attack\SAES_Attack.vcxproj", "{68A0F7E2-26F9-4DBA-87AD-F01CB5AE9AE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A0F7E2-26F9-4DBA-87AD-F01CB5AE9AE5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{68A0F7E2-26F9-4DBA-87AD-F01CB5AE9AE5}.Debug|Win32.Build.0 = Debug|Win32
+		{68A0F7E2-26F9-4DBA-87AD-F01CB5AE9AE5}.Release|Win32.ActiveCfg = Release|Win32
+		{68A0F7E2-26F9-4DBA-87AD-F01CB5AE9AE5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
